@@ -1,4 +1,8 @@
-package lab02;
+package hust.soict.dsai.aims;
+
+import hust.soict.dsai.aims.cart.Cart;
+import hust.soict.dsai.aims.disc.DigitalVideoDisc;
+
 // Hoang Hai Phong - 20210670
 public class Aims {
 	public static void main(String[] args) {
